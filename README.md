@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevBehruz
-- 👀 I’m interested in AI and computing...
-- 🌱 I’m currently learning programming with JS...
-- 💞️ I’m looking to collaborate on high educated programmers.
+- 👨‍💻 I am currently majoring in CS at the University of Arizona.
+- 🌐 I’m passionate about web development
 - 📫 How to reach me developerbehruz4080@gmail.com.
 
 <!---
