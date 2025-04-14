@@ -6,13 +6,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [https://t.me/ernazarov_blog](https://t.me/ernazarov_blog)
-
 - 💬 Ask me about **PHP 8.2, Laravel 11**
 
 - 📫 How to reach me **developerbehruz4080@gmail.como**
-
-- ⚡ Fun fact **I a gym rat!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
