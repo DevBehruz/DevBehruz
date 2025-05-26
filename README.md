@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 🎓 Computer Science student at the University of Arizona 
 
 💼 IT Student Developer at the Research, Innovation & Impact (RII) department, UArizona
