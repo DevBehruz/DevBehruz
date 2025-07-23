@@ -16,8 +16,9 @@
 ---
 
 ### About Me
-CS student @ University of Arizona
-Student Software Engineer @ Office for Research, Innovation and Impact
+<p>CS student @ University of Arizona</p>
+<br>
+<p>Student Software Engineer @ Office for Research, Innovation and Impact</p>
 
 ---
 
@@ -50,5 +51,4 @@ Student Software Engineer @ Office for Research, Innovation and Impact
 
 ---
 
-> _“First, solve the problem. Then, write the code.”_ – Behruz Ernazarov
 
