@@ -16,13 +16,8 @@
 ---
 
 ### About Me
-🎓 Computer Science student at the University of Arizona 
-
-💼 IT Student Developer at the Research, Innovation & Impact (RII) department, UArizona
-
-💻 Passionate about backend engineering, APIs, and clean architecture
-
-🌍 Originally from Uzbekistan 🇺🇿
+CS student @ University of Arizona
+Student Software Engineer @ Office for Research, Innovation and Impact
 
 ---
 
