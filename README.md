@@ -17,7 +17,7 @@
 
 ### About Me
 <p>CS student @ University of Arizona</p>
-<p>Student Software Engineer @ Research, Innovation & Impact Institute</p>
+<p>Student Software Engineer @ UITS </p>
 
 ---
 
